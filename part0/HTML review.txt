@@ -1,0 +1,11 @@
+HTML is the short form of HyperText Mark Up Language. It’s a Mark Up language that defines the structure of Content. It contains many elements and tags. By using them we can do many things. Like opening a paragraph, bold any word or line, giving italic style etc. For any html code line there are 3 part,
+1. The Opening Tag
+2. The closing Tag
+3. The content.
+Elements can also have attributes. It contains extra element about the element but not make it visible to the browser. We can put elements inside other elements too. Which is called nesting. But there are some elements called empty element. They don’t have any closing tag. Many single html tags together make a webpage. If we see one ideal HTML code we will find.
+1. Preamble.
+2. <html> wrap
+3. <head> element
+4. <body> element.
+5. View point element like <meta>
+They are must for a basic HTML structure. Inside <body> whatever we write will be shown in the client side. For making body nice and effective there are many tags. 
