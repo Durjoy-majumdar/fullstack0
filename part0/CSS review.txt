@@ -1,0 +1,5 @@
+CSS stands for Cascading Style Sheets. It is the code that style web content. By HTML we make the skeleton of a webpage and CSS is for decoration. One CSS command can be successfully executed if it is connected with HTML and have selector ( For which specific HTML code this will be applied) , property (What to modify) , property value ( what to do) . This is a structure for CSS which is called ruleset. There are specific method we need to follow for writing CSS like HTML. They are,
+* Apart from the selector, each ruleset must be wrapped in curly braces. ({})
+* Within each declaration, you must use a colon (:) to separate the property from its value or values.
+* Within each ruleset, you must use a semicolon (;) to separate each declaration from the next one.
+We are able to select multiple element also by calling them in selector (separated by comma). There are different types of selector also. Like Element selector , Id selector, class selector , attribute selector and so on. We can modify font, colour, size , location and whatever we need to do.
